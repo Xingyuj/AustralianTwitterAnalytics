@@ -14,23 +14,27 @@ Apache CouchDB™ lets you access your data where you need it by defining the Co
 Installing the project:
 
 1 clone the repo
-```
+
+           ```
 git clone https://github.com/Xingyuj/AustralianTwitterAnalytics.git
 ```
 
 2 move into the repository directory
-```
+           
+           ```
 cd AustralianTwitterAnalytics
 ```
 
 3 Maven install dependencies
-```
+           
+           ```
 mvn install
 ```
 
 4 install CouchDB
 (You can use HomeBrew to install CouchDB Or install it manually see to [CouchDB download](http://docs.couchdb.org/en/2.0.0/install/index.html))
-```
+           
+           ```
 brew install CouchDB
 ```
 
